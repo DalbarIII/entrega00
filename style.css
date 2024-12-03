@@ -1,0 +1,168 @@
+* {
+	margin: 0;
+	padding: 0;
+	}
+ /* INICIO HEADER */
+  .header 
+    {
+     background-color: #EBEBEB;
+     height: 10%;
+    }
+
+    .logoheader 
+    {
+      float: left;
+      padding: 10px 10px 10px 10px;
+    }
+
+    nav 
+    {
+      float: right;
+      margin-top: 20px;
+      overflow: hidden;
+      padding: 10px;
+    }
+
+    nav ul 
+    {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    nav ul li 
+    {
+      float: right;
+      margin-right: 15px;
+      padding: 0 20px 0 10px;
+    }
+
+    nav ul li a 
+    {
+      padding: 10px;
+      color: black;
+      text-decoration: none;
+    }
+
+    /* INICIO BANNER */
+  .banner 
+     {
+      height: 110%;
+      background-image: url('img/sinimagen.jpg');
+      background-size: cover;
+     }
+
+   .banner li a 
+    {
+      padding: 10px;
+      color: white;
+      text-decoration: none;
+      text-align: center;
+    }
+
+    .banner h1 
+    {
+      text-align: center;
+      padding: 25% 0 0 0;
+    }
+
+    .banner p 
+    {
+      text-align: center;
+      padding: 2% 25% 2% 25%;
+    }
+
+    .banner ul li .btn
+    {
+      display: inline;
+      text-align: center;
+      margin-left: 500px;
+
+    }
+
+    /* INICIO TITULO 1 */
+  .titulo1
+     {
+      background-color: #FFFFFF;
+      height: 20%;
+     }
+
+     .titulo1 h1 
+     {
+      text-align: center;
+      padding: 3% 0 0 0;
+     }
+
+  .izq 
+     {
+      background-color: #FFFFFF;
+    
+     }
+
+  .der 
+     {
+      background-color: #FFFFFF;
+     }
+
+     /* INICIO PRIMARIA 3 FOTOS */
+  .primaria 
+     {
+      background-color: blueviolet;
+      height: 80%;
+      
+     }
+
+    #foto1 
+    {
+      background-color: yellow;
+      height: 100%;
+      overflow: hidden;
+    }
+
+    #foto1 h2
+    {
+      font-size: 1px;
+    }
+
+   
+
+    #foto2 
+    {
+      background-color: orange;
+    }
+
+    #foto3 
+    {
+      background-color: green;
+    }
+
+     /* INICIO TITULO 2 */
+  .titulo2
+     {
+      background-color: rgb(204, 31, 31);
+      height: 10%;
+     }
+
+     /* INICIO SECUNDARIA 3 TOTOS PEQUEÑAS */
+  .foto 
+     {
+      background-color: blueviolet;
+      height: 70%;
+     }
+
+  .secundaria 
+     {
+      background-color: rgba(37, 206, 45, 0.623);
+      height: 80%;
+     }
+    /* INICIO FOOTER */
+  .footer 
+     {
+      background-color: gray;
+      height: 20%;
+     }
+
+  .img-uno
+  { 
+   background-image: url('img/noimagen.jpg')
+  }
